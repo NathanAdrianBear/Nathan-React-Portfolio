@@ -24,13 +24,14 @@ const router = createBrowserRouter(
       <Route path="about" element={<About />} />
       <Route path="contact" element={<Contact />} />
     </Route>
-  )
+  ),
+  {
+    basename: "/nathan-react-portfolio",
+  }
 );
 
 function App() {
-  return (
-      <RouterProvider router={ router } />
-  )
+  return <RouterProvider router={router} />
 }
 
 export default App

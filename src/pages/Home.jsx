@@ -1,7 +1,7 @@
 import Logo from '../assets/site-logo-blue.svg'
 import Portrait from '../assets/NATHAN-portrait.png'
 import { Link } from 'react-router-dom'
-import Typed from 'react-typed'
+import { ReactTyped } from 'react-typed'
 import ImageBubble from '../components/ImageBubble'
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
 					<br />
 					<span>I've worked with...</span>
 					<br />
-					<Typed
+					<ReactTyped
 			          	strings={[
 			          		'HTML', 
 			          		'CSS/SASS',
