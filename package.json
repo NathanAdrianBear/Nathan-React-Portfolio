@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://nathanadrianbear.github.io/Nathan-React-Portfolio",
+  "homepage": "https://nathanadrianbear.github.io/nathan-neact-portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
