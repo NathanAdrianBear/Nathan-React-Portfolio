@@ -26,7 +26,7 @@ const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename: "/nathan-react-portfolio",
+    basename: "/Nathan-React-Portfolio",
   }
 );
 

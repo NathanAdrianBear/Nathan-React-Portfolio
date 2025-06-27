@@ -9,7 +9,7 @@ const Home = () => {
 		<div className="page page__home">
 			<div className="page__home__text">
 				<h1>Hi, <br /> I'm 
-					<img src={ Logo } />
+					<img src={ Logo } alt=""/>
 					athan.
 					<br />
 					<span>I've worked with...</span>
