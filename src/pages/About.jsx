@@ -30,6 +30,12 @@ const About = () => {
                   <li>Overhauled Moroso’s Magento site using Page Builder, built a custom mega menu, and integrated Elasticsearch to boost performance and search relevance</li>
               </ul>
             </p>
+            <p><strong>Recent Work:</strong></p>
+            <p><a target="_blank" href="https://ralliant.com/">https://ralliant.com/</a></p>
+            <p><a target="_blank" href="https://dowbuilt.com/">https://dowbuilt.com/</a></p>
+            <p><a target="_blank" href="clearlyfiltered.com/">clearlyfiltered.com/</a></p>
+            <p><a target="_blank" href="https://fryemuseum.org/">https://fryemuseum.org/</a></p>
+            <p><a target="_blank" href="https://gimmebeauty.com/">https://gimmebeauty.com/</a></p>
           </div>
         </div>
         <div className="page__about__info__job">
