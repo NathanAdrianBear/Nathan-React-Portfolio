@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import Logo from '../../components/Logo'
 import {
   faLinkedin,
@@ -8,11 +8,13 @@ import {
 import {
   faHome,
   faUser,
-  faEnvelope
+  faEnvelope,
+  faFilePdf
 } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import HamburgerButton from '../../components/HamburgerButton'
 import './index.scss'
+import ResumeFile from '../../assets/Nathan-Adrian-Resume-June2025.pdf'
 
 const Sidebar = () => {
 
@@ -48,6 +50,12 @@ const Sidebar = () => {
 								<FontAwesomeIcon icon={faEnvelope} />
 								<p>Contact</p>
 							</NavLink>
+						</li>
+						<li>
+							<a href={ ResumeFile } download>
+								<FontAwesomeIcon icon={faFilePdf} />
+								<p>Resume</p>
+							</a>
 						</li>
 					</ul>
 				</nav>
