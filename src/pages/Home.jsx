@@ -17,8 +17,11 @@ const Home = () => {
 					<ReactTyped
 			          	strings={[
 			          		'HTML', 
-			          		'CSS/SASS',
-			          		'Javascript/Jquery',
+			          		'CSS',
+							'SASS',
+							'Tailwind',
+			          		'Javascript',
+							'Jquery',
 			          		'PHP',
 			          		'React',
 			          		'Drupal',

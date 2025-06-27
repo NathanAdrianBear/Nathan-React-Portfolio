@@ -18,9 +18,9 @@ const Sidebar = () => {
 
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const toggleHamburgerMenu = () => {
-    setIsMenuOpen(!isMenuOpen);
-  }
+  	const toggleHamburgerMenu = () => {
+    	setIsMenuOpen(!isMenuOpen);
+  	}
 
 	return (
 		<div onClick={toggleHamburgerMenu} className={`navigation__sidebar ${isMenuOpen ? 'active' : ''}`} >
@@ -40,7 +40,7 @@ const Sidebar = () => {
 						<li>
 							<NavLink to="about">
 								<FontAwesomeIcon icon={faUser} />
-								<p>About</p>
+								<p>Experience</p>
 							</NavLink>
 						</li>
 						<li>
@@ -57,7 +57,7 @@ const Sidebar = () => {
 							<a
 								target="_blank"
 								rel="noreferrer"
-								href="linkedin"
+								href="https://www.linkedin.com/in/nathan-j-adrian/"
 							>
 								<FontAwesomeIcon icon={faLinkedin} />
 							</a>
@@ -66,7 +66,7 @@ const Sidebar = () => {
 							<a
 								target="_blank"
 								rel="noreferrer"
-								href="github"
+								href="https://github.com/NathanAdrianBear/"
 							>
 								<FontAwesomeIcon icon={faGithub} />
 							</a>
