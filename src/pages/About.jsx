@@ -77,7 +77,6 @@ const About = () => {
           <div className="page__about__info__job__desc">
             <p><strong>Job Title:</strong> Web/Software Engineer</p>
             <p><strong>Techonologies:</strong> HTML, CSS/SASS, Gulp/Webpack, Javascript/Jquery, PHP, Laravel, Vue, Expression Engine, Photoshop, Bitbucket, Basecamp</p>
-            <p><strong>Job Duties:</strong></p>
           </div>
         </div>
         <div className="page__about__info__job">
@@ -87,7 +86,6 @@ const About = () => {
           <div className="page__about__info__job__desc">
             <p><strong>Job Title:</strong> Front-End Developer Intern</p>
             <p><strong>Techonologies:</strong> HTML, CSS, Javascript/Jquery</p>
-            <p><strong>Job Duties:</strong></p>
           </div>
         </div>
 			</div>
