@@ -32,7 +32,7 @@ const About = () => {
             <p><strong>Recent Work:</strong></p>
             <p><a target="_blank" href="https://ralliant.com/">https://ralliant.com/</a></p>
             <p><a target="_blank" href="https://dowbuilt.com/">https://dowbuilt.com/</a></p>
-            <p><a target="_blank" href="clearlyfiltered.com/">clearlyfiltered.com/</a></p>
+            <p><a target="_blank" href="https://clearlyfiltered.com/">https://clearlyfiltered.com/</a></p>
             <p><a target="_blank" href="https://fryemuseum.org/">https://fryemuseum.org/</a></p>
             <p><a target="_blank" href="https://gimmebeauty.com/">https://gimmebeauty.com/</a></p>
           </div>
