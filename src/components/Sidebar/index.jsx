@@ -14,7 +14,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import HamburgerButton from '../../components/HamburgerButton'
 import './index.scss'
-import ResumeFile from '../../assets/Nathan-Adrian-Resume-June2025.pdf'
+import ResumeFile from '../../assets/Nathan-Adrian-Resume-2025.pdf'
 
 const Sidebar = () => {
 

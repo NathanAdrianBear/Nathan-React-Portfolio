@@ -25,8 +25,7 @@ const About = () => {
                   <li>Migrated Gimme Beauty’s website from Sanity.io to Shopify, improving site stability and maintainability</li>
                   <li>Ensured all websites were fully ADA compliant, enhancing accessibility for all users</li>
                   <li>Implemented A/B testing with Visually.io, enabling the strategy team to make data-driven decisions</li>
-                  <li>Created a landing page for Clearly Filtered that helped gain major sales for them</li>
-                  <li>Designed and launched a high-converting landing page for Clearly Filtered, contributing to a significant increase in sales</li>
+                  <li>Developed and launched a high-converting landing page for Clearly Filtered, contributing to a significant increase in sales</li>
                   <li>Overhauled Moroso’s Magento site using Page Builder, built a custom mega menu, and integrated Elasticsearch to boost performance and search relevance</li>
               </ul>
             </p>
